@@ -1,4 +1,4 @@
-# Challenge-Assignment-2
+# Portfolio Website
 
 The assignment was to create a profile website to provide information about myself, showcase my completed projects and apps, and provide contact information.
 
