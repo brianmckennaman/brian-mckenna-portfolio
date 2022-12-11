@@ -9,4 +9,4 @@ A link to the deployed website can be found here: https://brianmckennaman.github
 
 A screenshot of the finished product is here:
 
-![Screenshot (3)](https://user-images.githubusercontent.com/107509704/179645900-e18e7bb0-4289-4a3b-a184-6c241b1ea3be.png)
+![Screenshot (32)](https://user-images.githubusercontent.com/107509704/206931978-bac1069c-8e31-4a2f-8cc8-f3f1d66a772b.png)
